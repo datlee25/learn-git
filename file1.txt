@@ -1,1 +1,3 @@
-Đây là file thứ nhất
+Đây là file thứ nhất 
+_______________________
+UPDATE lần thứ nhất bởi branch2
